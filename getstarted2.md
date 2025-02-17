@@ -31,41 +31,19 @@ navbar-links:
     - Learn markdown: 
     - Getting Started: "getstarted"  
     - Table Demo: "table-demo" 
-  Author's home: arosenk2@asu.edu
+  Author's home: "arosenk2@asu.edu"
 # --- Logo --- #
 # Image to show in the navigation bar - works best with a square image
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/assets/img/avatar-icon.png"
-# By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
-round-avatar: true
-# If you want to have an image logo in the top-left corner instead of having the title of the website,
-# then specify the following parameter
-#title-img: /path/to/image
+
 # --- Footer social media links --- #
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: arosenk2@asu.edu
-  github: ashleywilk
-#  medium: yourname
-#  reddit: yourname
-linkedin: ashleywilkerson
-#  xing: yourname
-#  stackoverflow: "3943160/daattali"
-#  snapchat: deanat78
-#  instagram: deanat78
-#  spotify: yourname
-#  telephone: +14159998888
-#  steam: deanat78
-#  twitch: yourname
-#  yelp: yourname
-#  telegram: yourname
-#  calendly: yourname
-#  mastodon: instance.url/@username
-#  ORCID: your ORCID ID
-#  google-scholar: your google scholar
-# If you want to show a link to an RSS in the footer, add the site description here.
-# If you don't want to show an RSS link, remove the following line.
+  email: "arosenk2@asu.edu"
+  github: "ashleywilk"
+linkedin:" ashleywilkerson"
+
 rss-description: This website is a virtual proof that I'm awesome
 # --- General options --- #
 # Select which social network share links to show in posts
