@@ -21,6 +21,7 @@ navbar-links:
   Resources:
     - Beautiful Jekyll: 
     - Learn markdown: 
+    - Getting Started: "getstarted"  
   Author's home: "arosenk2@asu.edu"
 
 # --- Logo --- #
