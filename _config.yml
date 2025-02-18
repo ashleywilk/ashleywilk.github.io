@@ -15,15 +15,19 @@ description: A virtual proof that I'm awesome
 author: "Ashley Wilkerson"
 # --- List of links in the navigation bar --- #
 
+
+
+# List of links in the navigation bar
 navbar-links:
   About Me: "Thanks for coming to my portfolio! My name is Ashley and I am currently a Masters student at Arizona State University in the Program Evaluation and DAta analysis program."
-
   Resources:
-    - Beautiful Jekyll: 
-    - Learn markdown: 
-    - Getting Started: "getstarted"  
- Table Demo: "table-demo"
- 
+    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
+    - Learn markdown: "http://www.markdowntutorial.com/"
+    - Getting Started: "getstarted"                         # ADD THIS LINK
+  Author's home: "http://deanattali.com"
+   Table Demo: "table-demo"
+
+
 
 # --- Logo --- #
 
